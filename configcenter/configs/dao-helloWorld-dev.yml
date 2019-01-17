@@ -10,3 +10,4 @@ eureka:
 spring:
   redis:
     host: 132.232.175.240
+test: this is a test message.
